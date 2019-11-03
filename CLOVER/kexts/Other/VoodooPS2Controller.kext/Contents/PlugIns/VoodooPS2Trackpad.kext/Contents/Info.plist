@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>17G2208</string>
+	<string>17E202</string>
 	<key>CFBundleExecutable</key>
 	<string>VoodooPS2Trackpad</string>
 	<key>CFBundleGetInfoString</key>
@@ -29,17 +29,17 @@
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>9F2000</string>
+	<string>9E145</string>
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>17E189</string>
+	<string>12D75</string>
 	<key>DTSDKName</key>
-	<string>macosx10.13</string>
+	<string>macosx10.8</string>
 	<key>DTXcode</key>
-	<string>0941</string>
+	<string>0930</string>
 	<key>DTXcodeBuild</key>
-	<string>9F2000</string>
+	<string>9E145</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>ALPS GlidePoint</key>
@@ -357,10 +357,6 @@
 					<integer>13</integer>
 					<key>MultiFingerWLimit</key>
 					<integer>9</integer>
-					<key>ProcessBluetoothMouseStopsTrackpad</key>
-					<true/>
-					<key>ProcessUSBMouseStopsTrackpad</key>
-					<true/>
 					<key>QuietTimeAfterTyping</key>
 					<integer>500000000</integer>
 					<key>Resolution</key>
@@ -578,8 +574,6 @@
 			</dict>
 			<key>ProductID</key>
 			<integer>547</integer>
-			<key>RM,deliverNotifications</key>
-			<true/>
 			<key>VendorID</key>
 			<integer>1452</integer>
 		</dict>
